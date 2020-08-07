@@ -1,0 +1,208 @@
+{
+	"@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+	"@id": "https://data.ri.gov/data.json",
+	"@type": "dcat:Catalog",
+	"conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+	"describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+	"dataset": [{
+			"@type": "dcat:Dataset",
+			"accessLevel": "public",
+			"contactPoint": {
+				"fn": "danielle.carey@dor.ri.gov",
+				"hasEmail": "mailto:noemailprovided@usa.gov"
+			},
+			"description": "<p>Tiverton | Finance Data FY2020</p>\n",
+			"distribution": [{
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Tiverton%202020%20B2A1%20051820%20TR%20Signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 1 (2nd quarter for fiscal year of entity). Budget to Actual 1 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Tiverton | Finance Data FY2020 B2A1"
+			}],
+			"identifier": "6d36e9fd-52f5-400c-9602-0f185efb3328",
+			"issued": "2020-05-19",
+			"keyword": ["FY20", "Municipal"],
+			"landingPage": "https://data.ri.gov/dataset/tiverton-finance-data-fy2020",
+			"modified": "2020-05-19",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "Tiverton"
+			},
+			"theme": ["Finance and Budgeting"],
+			"title": "Tiverton | Finance Data FY2020"
+		},
+		{
+			"@type": "dcat:Dataset",
+			"accessLevel": "public",
+			"contactPoint": {
+				"fn": "keith.kelliher@dor.ri.gov",
+				"hasEmail": "mailto:noemailprovided@usa.gov"
+			},
+			"description": "<p>Westerly | Finance Data FY2020</p>\n",
+			"distribution": [{
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Westerly%202020%20B2A1%20021320%20TR%20SIGNED.pdf",
+				"mediaType": "application/pdf",
+				"format": ".pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 1 (2nd quarter for fiscal year of entity).<br />\nBudget to Actual 1 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Westerly | Finance Data FY2020 B2A1"
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Westerly%202020%20B2A2%20051120%20TR%20SIGNED.pdf",
+				"mediaType": "application/pdf",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Budget to Actual 2 (3rd quarter for fiscal year of entity).<br />\nBudget to Actual 2 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Westerly | Finance Data FY2020 B2A2"
+			}, {
+				"@type": "dcat:Distribution",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Budget to Actual 3 (4th quarter for fiscal year of entity).<br />\nBudget to Actual 3 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Not Finalized Westerly | Finance Data FY2020 B2A3"
+			}, {
+				"@type": "dcat:Distribution",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Adopted Budget Survey / Five Year Forecast. Five Year Forecast submission RI General Law 44-35-10 (b) (c).</p>\n",
+				"title": "Not Finalized Westerly | Finance Data FY2020 AB5Y"
+			}],
+			"identifier": "e5e367c4-3c0b-4370-9aea-dd661ef2dd2b",
+			"issued": "2020-02-12",
+			"keyword": ["municipal and FY20"],
+			"landingPage": "https://data.ri.gov/dataset/westerly-finance-data-fy2020",
+			"modified": "2020-06-04",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "Westerly"
+			},
+			"theme": ["Finance and Budgeting"],
+			"title": "Westerly | Finance Data FY2020"
+		},
+		{
+			"@type": "dcat:Dataset",
+			"accessLevel": "public",
+			"contactPoint": {
+				"fn": "danielle.carey@dor.ri.gov",
+				"hasEmail": "mailto:noemailprovided@usa.gov"
+			},
+			"description": "<p>West Warwick | Finance Data FY2020</p>\n",
+			"distribution": [{
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/West%20Warwick%202020%20AB5YR%2008219%20TR%20Signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Adopted Budget Survey / Five Year Forecast. Five Year Forecast submission RI General Law 44-35-10 (b) (c).</p>\n",
+				"title": "West Warwick | Finance Data FY2020 AB5Y"
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/West%20Warwick%202020%20B2A1%20020320%20TR%20signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Budget to Actual 1 (2nd quarter for fiscal year of entity).<br />\nBudget to Actual 1 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "West Warwick | Finance Data FY2020 B2A1"
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/West%20Warwick%202020%20B2A2%20050520%20TR%20signed.pdf",
+				"mediaType": "application/pdf",
+				"format": ".pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 2 (3rd quarter for fiscal year of entity).<br />\nBudget to Actual 2 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "West Warwick | Finance Data FY2020 B2A2"
+			}, {
+				"@type": "dcat:Distribution",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Budget to Actual 3 (4th quarter for fiscal year of entity).<br />\nBudget to Actual 3 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "(Not Finalized) West Warwick | Finance Data FY2020 B2A3"
+			}],
+			"identifier": "f2381ae1-746d-4d6f-829f-1320de6f207e",
+			"issued": "2019-10-22",
+			"keyword": ["FY20", "Municipal"],
+			"landingPage": "https://data.ri.gov/dataset/west-warwick-finance-data-fy2020",
+			"modified": "2020-06-17",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "West Warwick"
+			},
+			"theme": ["Finance and Budgeting"],
+			"title": "West Warwick | Finance Data FY2020"
+		},
+		{
+			"@type": "dcat:Dataset",
+			"accessLevel": "public",
+			"contactPoint": {
+				"fn": "danielle.carey@dor.ri.gov",
+				"hasEmail": "mailto:noemailprovided@usa.gov"
+			},
+			"description": "<p>Chariho Regional School District | Finance Data FY2019</p>\n",
+			"distribution": [{
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Chariho-2019-ABS-070518%20TR.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Adopted Budget Survey / Five Year Forecast. Five Year Forecast submission RI General Law 44-35-10 (b) (c).</p>\n",
+				"title": "Chariho Regional School District | Finance Data FY2019 AB5Y "
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Chariho%202019%20B2A1%20020519%20TR%20signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 1 (2nd quarter for fiscal year of entity).<br />\nBudget to Actual 1 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Chariho Regional School District | Finance Data FY2019 B2A1"
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Chariho%202019%20B2A2%20043019%20TR%20signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 2 (3rd quarter for fiscal year of entity).<br />\nBudget to Actual 2 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Chariho Regional School District | Finance Data FY2019 B2A2 "
+			}],
+			"identifier": "2b36797d-3b8d-4783-b2fc-6be960fad6cf",
+			"issued": "2019-06-17",
+			"keyword": ["FY19", "Municipal"],
+			"landingPage": "https://data.ri.gov/dataset/chariho-regional-school-district-finance-data-fy2019-0",
+			"modified": "2019-06-17",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "Chariho Regional School District"
+			},
+			"theme": ["Finance and Budgeting"],
+			"title": "Chariho Regional School District | Finance Data FY2019"
+		},
+		{
+			"@type": "dcat:Dataset",
+			"accessLevel": "public",
+			"contactPoint": {
+				"fn": "danielle.carey@dor.ri.gov",
+				"hasEmail": "mailto:noemailprovided@usa.gov"
+			},
+			"description": "<p>Bristol Warren Regional School District | Finance Data FY2019</p>\n",
+			"distribution": [{
+				"@type": "dcat:Distribution",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Adopted Budget Survey / Five Year Forecast. Five Year Forecast submission RI General Law 44-35-10 (b) (c).</p>\n",
+				"title": "(Not Finalized) Bristol Warren Regional School District | Finance Data FY2019 AB5Y"
+			}, {
+				"@type": "dcat:Distribution",
+				"downloadURL": "https://data.ri.gov/sites/default/files/Bristol%20Warren%202019%20B2A1%20082019%20TR%20Signed.pdf",
+				"mediaType": "application/pdf",
+				"format": "pdf",
+				"description": "<p>Transparency Report for new format for Budget to Actual 1 (2nd quarter for fiscal year of entity).<br />\nBudget to Actual 1 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "Bristol Warren Regional School District | Finance Data FY2019 B2A1"
+			}, {
+				"@type": "dcat:Distribution",
+				"format": "data",
+				"description": "<p>Transparency Report for new format for Budget to Actual 2 (3rd quarter for fiscal year of entity).<br />\nBudget to Actual 2 submission RI General Law 45-12-22.2 (b).</p>\n",
+				"title": "(Not Finalized) Bristol Warren Regional School District | Finance Data FY2019 B2A2 "
+			}],
+			"identifier": "33198864-f536-4815-a6a9-e6eaaa0b6ed4",
+			"issued": "2019-06-17",
+			"keyword": ["FY19", "Municipal"],
+			"landingPage": "https://data.ri.gov/dataset/bristol-warren-regional-school-district-finance-data-fy2019",
+			"modified": "2019-08-30",
+			"publisher": {
+				"@type": "org:Organization",
+				"name": "Bristol Warren Regional School District"
+			},
+			"theme": ["Finance and Budgeting"],
+			"title": "Bristol Warren Regional School District | Finance Data FY2019 "
+		}
+	]
+}
